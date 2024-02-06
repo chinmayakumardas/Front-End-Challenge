@@ -49,3 +49,21 @@ let symbol2= Symbol("symbol 1")
 console.log(symbolA==symbolB);
 console.log(symbol1==symbol2);
 console.table([a,age,add,name,xyz,eligible,objects])
+console.log(objects);
+console.log(objects.length);
+console.log(objects[0]);
+
+//nested object
+let objects2={
+    name:"tanya sahu",
+    contact:{
+        phone:6370073215,
+        mmail:"bdd@gmail.com",
+        Addrs:"bbsr",
+    }
+}
+//acces nested object
+
+
+    
+
