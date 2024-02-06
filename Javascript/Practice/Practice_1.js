@@ -58,12 +58,15 @@ let objects2={
     name:"tanya sahu",
     contact:{
         phone:6370073215,
-        mmail:"bdd@gmail.com",
+        email:"bdd@gmail.com",
         Addrs:"bbsr",
     }
 }
 //acces nested object
-
-
+console.log("==================");
+console.log(objects2.name);
+console.log(objects2.contact);
+console.log(objects2.contact.phone);
+console.log(objects2.contact.email);
     
 
