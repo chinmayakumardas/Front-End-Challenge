@@ -5,7 +5,8 @@ console.log(a);
 
 // let var const
 
-let a=10;
+var x=10;
 {
- 
+ var x=1;
+    console.log(x);
 }
