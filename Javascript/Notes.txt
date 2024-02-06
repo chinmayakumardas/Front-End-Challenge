@@ -1,3 +1,10 @@
 #1- In let var const all have it u nique global scope but var only support global scope and let block scope and const is also block scope
 
-#2-
+#2- 7 types of data type in js
+number
+string
+NaN
+undefined
+array
+object
+symbol--It used to give unique identity to a variable

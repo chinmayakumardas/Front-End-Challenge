@@ -31,4 +31,21 @@ let xyz=[1,3,2,4,3]
 let name="Ajay"
 const eligible=false;
 console.log("Welcome to variable");
-console.table([a,age,add,name,xyz,eligible])
+let objects=[
+    {
+        name:"ajay",
+        age:22,
+    },
+    {
+        name:"bijay",
+        age:23,
+    }];
+    let symbolA= "symbol 1"
+    let symbolB= "symbol 1"
+
+let symbol1= Symbol("symbol 1")
+let symbol2= Symbol("symbol 1")
+
+console.log(symbolA==symbolB);
+console.log(symbol1==symbol2);
+console.table([a,age,add,name,xyz,eligible,objects])
