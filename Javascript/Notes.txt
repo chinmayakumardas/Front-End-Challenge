@@ -1,0 +1,1 @@
+#1- In let var const all have it u nique global scope but var only support global scope and let block scope and const is also block scope
