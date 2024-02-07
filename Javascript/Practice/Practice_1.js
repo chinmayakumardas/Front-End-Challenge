@@ -68,5 +68,6 @@ console.log(objects2.name);
 console.log(objects2.contact);
 console.log(objects2.contact.phone);
 console.log(objects2.contact.email);
+console.log(objects2.contact.Addrs);
     
 
