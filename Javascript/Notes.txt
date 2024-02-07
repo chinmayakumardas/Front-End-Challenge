@@ -8,3 +8,19 @@ undefined
 array
 object
 symbol--It used to give unique identity to a variable
+
+===================================
+#3- Functions are varioues types
+-Named Functions
+-Anonymous
+-Immediately invoked function expressions
+
+#4- Object is a real world object having some properties and method
+class-is a collection of view of objects.
+Object are the instances of a class.
+
+We can create object various method like---
+
+
+
+#5-
