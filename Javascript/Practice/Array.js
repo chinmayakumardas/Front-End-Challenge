@@ -13,16 +13,16 @@ college[2]="KISS";
 console.log(college);
 console.log(college.toString());
 
-let arr=[1,3,5];
+let arr=[];
+//insert array
+arr.push(6)
+arr.push(2)
+arr.push(67)
+arr.unshift(123)
+arr.unshift(12)
+arr.unshift(13)
+
+//remove array
+arr.pop()
 arr.shift()
-arr.unshift()
-// arr.delete()
-// arr.concat()
-// arr.copyWithin()
-// arr.flat()
-// arr.splice()
-// arr.toSpliced()
-// arr.slice()
-
-
-console.log(arr.length);
+console.log(arr);
