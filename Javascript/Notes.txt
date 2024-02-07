@@ -23,4 +23,10 @@ We can create object various method like---
 
 
 
-#5-
+#5-Event
+some events like oclick,onchange,onmouseover,onload etc
+
+#String-
+collections of characters.
+
+
