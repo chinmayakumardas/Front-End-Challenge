@@ -5,6 +5,9 @@
 // console.log(res);
 var a = 6;
 var b = 6;
+
+
+//tricky questions
 // a += b;
 var a= a+=b;
 console.log(a);
