@@ -11,3 +11,4 @@ var b = 6;
 // a += b;
 var a= a+=b;
 console.log(a);
+console.log(a+a);
