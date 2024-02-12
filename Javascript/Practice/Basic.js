@@ -56,3 +56,13 @@ console.log(str1.length);
 console.log(str1.charAt(0));
 console.log(str1.concat(str2));
 console.log(str1.substr(1,3));
+
+//Numbers
+
+let n=444444444444444444444444444444444444444444444444;
+console.log(n);
+
+
+let x=9;
+console.log(x.toString());
+console.log(x.toExponential(2));
